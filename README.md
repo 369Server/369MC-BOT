@@ -1,7 +1,7 @@
 # Cosa è 369MC-BOT?
 369MC-BOT è un bot scritto in python che ogni membro del server potrà scaricare ed eseguire sul proprio computer per ottenere informazioni o altro riguardo al server.
 
-
+4rfrfeefefe3rerfdededed
 # Come posso eseguire il bot?
 Seguendo i passaggi qua sotto indicati usare il bot per te sarà semplicissimo
 ### 1) Installare python
